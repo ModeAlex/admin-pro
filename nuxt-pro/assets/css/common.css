@@ -1,0 +1,14 @@
+.container {
+    margin: 20px;
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 15px;
+}
+
+.ease-in-out {
+    transition: all .2s ease-in-out;
+}
+
+.pointer {
+    cursor: pointer;
+}
